@@ -1,1 +1,1 @@
-# java_edu
+# EduProject
