@@ -1,7 +1,6 @@
 package com.javastart.lesson7.service;
 
 import com.javastart.lesson7.entity.Account;
-import com.javastart.lesson7.entity.Bill;
 
 public class TransferService {
     public void transfer(Account accountFrom, Account accountTo, int amount) {
